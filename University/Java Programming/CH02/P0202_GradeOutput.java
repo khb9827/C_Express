@@ -1,7 +1,7 @@
-
+// Java 언어로 작성한 성적처리 프로그램 2
 public class P0202_GradeOutput {
 	int e; // 영어 성적을 위한 변수
-	int m; // 수학 성적을 위ㅏㅎㄴ 변수
+	int m; // 수학 성적을 위한 변수
 	
 	void input_grade(int a,int b) { // 성적을 입력하기 위한 메소드
 		e=a;
